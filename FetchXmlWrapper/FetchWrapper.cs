@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Collections;
 
-namespace FetchXmlTest
+namespace FetchXmlWrapper
 {
     [System.Serializable()]
     public class FetchWrapper
